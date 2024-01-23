@@ -9,8 +9,18 @@ alert("buena semana");
 
 //ejercico 2
 
+let numero = prompt("escribe un número positivo o negativo");
+if(numero > 0){
+alert("numero positivo")
+} else if(numero < 0) {
+alert("numero negarito");
+} else {
+alert("el número es 0");
+}
+
 
 //ejercicio 3
+let puntuacion = 105
 if(puntuacion >= 100);{
 alert("¡Felicidades has ganado!");
 }else {
@@ -18,6 +28,7 @@ alert("Intentanuevamente por favor");
 }
 
 //ejercicio 4
+
 alert(`El saldo de tu cuenta es: ${saldoDeBanco}`);
 
 //ejercicio 5
