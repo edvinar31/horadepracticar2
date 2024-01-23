@@ -1,3 +1,4 @@
+//ejercicio 1
 let dias = ("Sábado","Domingo");
 let diaDeLaSemana = prompt("Escribe el día de la semana");
 if(diaDeLaSemana == dias){
@@ -5,5 +6,24 @@ alert("buen fin de semana");
 } else{
 alert("buena semana");
 }
+
+//ejercico 2
+
+
+//ejercicio 3
+if(puntuacion >= 100);{
+alert("¡Felicidades has ganado!");
+}else {
+alert("Intentanuevamente por favor");
+}
+
+//ejercicio 4
+alert(`El saldo de tu cuenta es: ${saldoDeBanco}`);
+
+//ejercicio 5
+let nombreDeUsuario = prompt("Ingresa tu nombre");
+conlose.log(nompreDeUsuario);
+
+
 
 
