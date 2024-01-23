@@ -1,1 +1,9 @@
+let dias = ("Sábado","Domingo");
+let diaDeLaSemana = prompt("Escribe el día de la semana");
+if(diaDeLaSemana == dias){
+alert("buen fin de semana");
+} else{
+alert("buena semana");
+}
+
 
