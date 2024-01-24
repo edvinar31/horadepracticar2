@@ -28,12 +28,12 @@ alert("Intentanuevamente por favor");
 }
 
 //ejercicio 4
-
+let saldoDeBanco = 1000;
 alert(`El saldo de tu cuenta es: ${saldoDeBanco}`);
 
 //ejercicio 5
 let nombreDeUsuario = prompt("Ingresa tu nombre");
-conlose.log(nompreDeUsuario);
+alert(`¡Bienvenido tu nombre es: ${nombreDeUsuario}!`);
 
 
 
